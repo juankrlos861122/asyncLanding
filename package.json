@@ -1,0 +1,23 @@
+{
+  "name": "asynclanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juankrlos861122/asyncLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juankrlos861122/asyncLanding/issues"
+  },
+  "homepage": "https://github.com/juankrlos861122/asyncLanding#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
